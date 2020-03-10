@@ -1,0 +1,23 @@
+{
+    "timezone": "Odessa",
+    "currently": {
+        "time": 1557092151,
+        "summary": "Drizzle",
+        "icon": "rain-large",
+        "apparentTemperature": 11.4,
+        "precipProbability": 0.88,
+        "windSpeed": 10.15,
+        "humidity": 0.74,
+        "uvIndex": 6,
+    },
+    "daily": {
+        "data": [
+            {
+                "summary": "Mostly cloudy throughout the day.",
+                "temperatureHigh": 12,
+                "temperatureLow": 7,
+            },
+        ],
+    }
+}
+
